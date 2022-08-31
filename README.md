@@ -1,6 +1,6 @@
 # Spotify Terraform provider example
 Example of auto-built playlist in Spotify, where you can set names of two artists, the whole number of tracks and percentage of tracks for every artist.
-Made based on [tutorial]('https://learn.hashicorp.com/tutorials/terraform/spotify-playlist).
+Made based on [tutorial](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist).
 
 ## How to use?
 1. Create Spotify developer app [here]('https://developer.spotify.com/dashboard/login')
